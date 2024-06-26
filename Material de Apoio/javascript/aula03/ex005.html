@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operadores JS</title>
+</head>
+<body>
+    <h2>Olhe o console</h2>
+</body>
+<script>
+    let x = 10
+    x *= 2
+    console.log(x)
+
+    let a = 5  
+    console.log(--a) 
+    console.log(++a) 
+
+    //Condições 
+
+    let idade = 18
+    if (idade < 18){
+        console.log("Menor de idade")
+    }
+    else if(idade == 18){
+        console.log("Você tem 18 anos")
+    }
+    else{
+        console.log("Você é maior de idade")
+    }
+
+    //SWITCH
+
+    let cor = "azul"
+    switch(cor){
+        case "vermelho":
+            console.log("A cor é vermelho")
+            break
+        
+        case "azul":
+            console.log("A cor é azul")
+            break
+            
+        case "verde":
+            console.log("A cor é verde")
+            break
+            
+        default:
+            console.log("Cor não encontrada")    
+    }   
+</script>
+</html>
