@@ -1,3 +1,4 @@
+Link para o modelo no figma: https://www.figma.com/design/xDzDgHAe4TOoGDMsYR9NUT/Trabalho---Produtos?node-id=0-1&t=6KrQIvuRd2PhraD5-1
 # Critérios Obrigatórios Para o Trabalho
 
 # Ter um menu superior com imagem
