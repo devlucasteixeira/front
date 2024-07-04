@@ -1,0 +1,19 @@
+dialog{
+    background-color: #ebebeb;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    width: 60%;
+}
+
+dialog::backdrop{
+    background-color: rgba(0, 0, 0, 0.458);
+}
+
+#fechar{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
